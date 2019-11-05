@@ -1,0 +1,286 @@
+sample_name	library_ID	title	library_strategy	library_source	library_selection	library_layout	platform	instrument_model	design_description	filetype	filename	filename2	filename3	filename4	assembly	fasta_file
+CR11	GATCTG	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	CR11_S7_L001_R1_001.fastq.gz	CR11_S7_L001_R2_001.fastq.gz				
+CR21	TCAAGT	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	CR21_S8_L001_R1_001.fastq.gz	CR21_S8_L001_R2_001.fastq.gz				
+CR24	TTGACT	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	CR24_S13_L001_R1_001.fastq.gz	CR24_S13_L001_R2_001.fastq.gz				
+CR3	ACATCG	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	CR3_S2_L001_R1_001.fastq.gz	CR3_S2_L001_R2_001.fastq.gz				
+CR36	TTTCAC	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	CR36_S19_L001_R1_001.fastq.gz	CR36_S19_L001_R2_001.fastq.gz				
+CR37	GGACGG	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	CR37_S16_L001_R1_001.fastq.gz	CR37_S16_L001_R2_001.fastq.gz				
+CR38	GCGGAC	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	CR38_S18_L001_R1_001.fastq.gz	CR38_S18_L001_R2_001.fastq.gz				
+CR4	GCCTAA	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	CR4_S3_L001_R1_001.fastq.gz	CR4_S3_L001_R2_001.fastq.gz				
+CR45	TGACAT	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	CR45_S15_L001_R1_001.fastq.gz	CR45_S15_L001_R2_001.fastq.gz				
+CR54	GTAGCC	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	CR54_S11_L001_R1_001.fastq.gz	CR54_S11_L001_R2_001.fastq.gz				
+CR67	TACAAG	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	CR67_S12_L001_R1_001.fastq.gz	CR67_S12_L001_R2_001.fastq.gz				
+CR70	GGAACT	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	CR70_S14_L001_R1_001.fastq.gz	CR70_S14_L001_R2_001.fastq.gz				
+CR71	AGCTAG	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	CR71_S1_L001_R1_001.fastq.gz	CR71_S1_L001_R2_001.fastq.gz				
+CR75	GGCCAC	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	CR75_S20_L001_R1_001.fastq.gz	CR75_S20_L001_R2_001.fastq.gz				
+CR8	TGGTCA	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	CR8_S4_L001_R1_001.fastq.gz	CR8_S4_L001_R2_001.fastq.gz				
+CR85	CTCTAC	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	CR85_S17_L001_R1_001.fastq.gz	CR85_S17_L001_R2_001.fastq.gz				
+EN1	AAGCTA	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	EN1_S10_L001_R1_001.fastq.gz	EN1_S10_L001_R2_001.fastq.gz				
+EN6	TAGTTG	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	EN6_S29_L001_R1_001.fastq.gz	EN6_S29_L001_R2_001.fastq.gz				
+K3	TCGGGA	16s Sequencing of Loxodonta cyclotis: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	K3_S46_L001_R1_001.fastq.gz	K3_S46_L001_R2_001.fastq.gz				
+M10	CTTCGA	16s Sequencing of Loxodonta cyclotis: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	M10_S47_L001_R1_001.fastq.gz	M10_S47_L001_R2_001.fastq.gz				
+M33	CGTGAT	16s Sequencing of Loxodonta cyclotis: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	M33_S1_L001_R1_001.fastq.gz	M33_S1_L001_R2_001.fastq.gz				
+MM12	AGGAAT	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	MM12_S27_L001_R1_001.fastq.gz	MM12_S27_L001_R2_001.fastq.gz				
+MM30	CCACTC	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	MM30_S23_L001_R1_001.fastq.gz	MM30_S23_L001_R2_001.fastq.gz				
+MM35	CACTGT	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	MM35_S5_L001_R1_001.fastq.gz	MM35_S5_L001_R2_001.fastq.gz				
+MM47	ATTGGC	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	MM47_S6_L001_R1_001.fastq.gz	MM47_S6_L001_R2_001.fastq.gz				
+MM49	CTGATC	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	MM49_S9_L001_R1_001.fastq.gz	MM49_S9_L001_R2_001.fastq.gz				
+MM56	CGAAAC	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	MM56_S21_L001_R1_001.fastq.gz	MM56_S21_L001_R2_001.fastq.gz				
+MM62	GCTCAT	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	MM62_S26_L001_R1_001.fastq.gz	MM62_S26_L001_R2_001.fastq.gz				
+MM69	CTTTTG	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	MM69_S28_L001_R1_001.fastq.gz	MM69_S28_L001_R2_001.fastq.gz				
+MM70	CGTACG	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	MM70_S22_L001_R1_001.fastq.gz	MM70_S22_L001_R2_001.fastq.gz				
+MM8	GCTACC	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	MM8_S24_L001_R1_001.fastq.gz	MM8_S24_L001_R2_001.fastq.gz				
+MO15	CCGGTG	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	MO15_S30_L001_R1_001.fastq.gz	MO15_S30_L001_R2_001.fastq.gz				
+MO18	ATCGTG	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	MO18_S31_L001_R1_001.fastq.gz	MO18_S31_L001_R2_001.fastq.gz				
+N5	ATTATA	16s Sequencing of Loxodonta cyclotis: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	N5_S44_L001_R1_001.fastq.gz	N5_S44_L001_R2_001.fastq.gz				
+O1	GAATGA	16s Sequencing of Loxodonta cyclotis: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	O1_S45_L001_R1_001.fastq.gz	O1_S45_L001_R2_001.fastq.gz				
+O23	CGATTA	16s Sequencing of Loxodonta cyclotis: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	O23_S42_L001_R1_001.fastq.gz	O23_S42_L001_R2_001.fastq.gz				
+OB158	TGCCGA	16s Sequencing of Loxodonta cyclotis: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	OB158_S48_L001_R1_001.fastq.gz	OB158_S48_L001_R2_001.fastq.gz				
+OB162	GCTGTA	16s Sequencing of Loxodonta cyclotis: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	OB162_S43_L001_R1_001.fastq.gz	OB162_S43_L001_R2_001.fastq.gz				
+OB182	TGAGTG	16s Sequencing of Loxodonta cyclotis: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	OB182_S32_L001_R1_001.fastq.gz	OB182_S32_L001_R2_001.fastq.gz				
+OB183	TCTGAG	16s Sequencing of Loxodonta cyclotis: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	OB183_S40_L001_R1_001.fastq.gz	OB183_S40_L001_R2_001.fastq.gz				
+OB190	ATCAGT	16s Sequencing of Loxodonta cyclotis: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	OB190_S25_L001_R1_001.fastq.gz	OB190_S25_L001_R2_001.fastq.gz				
+OB203	GTATAG	16s Sequencing of Loxodonta cyclotis: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	OB203_S39_L001_R1_001.fastq.gz	OB203_S39_L001_R2_001.fastq.gz				
+OL1	GCCATG	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	OL1_S34_L001_R1_001.fastq.gz	OL1_S34_L001_R2_001.fastq.gz				
+OL12	CGCCTG	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	OL12_S33_L001_R1_001.fastq.gz	OL12_S33_L001_R2_001.fastq.gz				
+OL2	AAAATG	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	OL2_S35_L001_R1_001.fastq.gz	OL2_S35_L001_R2_001.fastq.gz				
+OL4	TGTTGG	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	OL4_S36_L001_R1_001.fastq.gz	OL4_S36_L001_R2_001.fastq.gz				
+OL9	ATTCCG	16s Sequencing of Loxodonta africana: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	OL9_S37_L001_R1_001.fastq.gz	OL9_S37_L001_R2_001.fastq.gz				
+P7	GTCGTC	16s Sequencing of Loxodonta cyclotis: Feces	AMPLICON	METAGENOMIC	PCR	paired	ILLUMINA	Illumina MiSeq	"PCR forward primer 515F (5’-GTG CCA GCM GCC GCG GTA A-3’) and reverse primer 806R (5’-GGA CTA CHV GGG TWT CTA AT-3’; Caporaso et al., 2010; Gilbert et al., 2010). We modified each primer to include Illumina forward, reverse, and multiplex sequencing primers and added a unique 6 bp barcode to each reverse primer (Bartram, Lynch, Stearns, Moreno-Hagelsieb, and Neufeld, 2011) using the TruGrade service to reduce the risk of oligo crosstalk and barcode misalignment during downstream applications (IDT, Coralville, IA)."	fastq	P7_S41_L001_R1_001.fastq.gz	P7_S41_L001_R2_001.fastq.gz				
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
