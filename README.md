@@ -4,4 +4,5 @@ In this study, we characterized the gut microbiome of the African Savanna elepha
 
 Budd, K., J.C. Gunn, T. Finch, K. Klymus, & L.S. Eggert. (In-Review, Nov 2019) The effect of Diet, Habitat, and Phylogeny on the Fecal Micorbiome of Wild African Savanna (Loxodonta africana) and Forest Elephants (Loxodonta cyclotis). Microbiome
 
-Reads available at:
+Reads available at: https://www.ncbi.nlm.nih.gov/bioproject/587772
+NCBI ACCESSION NO.: PRJNA587772
